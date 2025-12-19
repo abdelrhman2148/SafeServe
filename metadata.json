@@ -1,0 +1,7 @@
+{
+  "name": "SafeServe - Food Safety & Compliance Log",
+  "description": "A digital compliance assistant for restaurants to track temperatures, cleaning schedules, and safety protocols with AI-powered inspection readiness checks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
